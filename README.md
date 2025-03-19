@@ -15,8 +15,8 @@ The repository includes the following directories:
 - **Simulations/**: Contains simulation files and data used in the analysis.
 - **Matlab_Scripts/**: Includes MATLAB scripts for processing measurements and performing calculations.
 - **Results/**: Stores the extracted data and analysis results.
-- **Defense_Presentation.pdf**: The final defense presentation in PDF format.
-
+- **Tomás Ruiz Aybar_MPE_CMJ.pdf**: This document is the Final Degree Project (TFG) report, which presents the research, methodology, and results obtained in the characterization of materials in the millimeter-wave frequency band. It provides a detailed explanation of the techniques used to extract key electromagnetic properties, such as complex refractive index, relative permittivity, and permeability.
+  
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

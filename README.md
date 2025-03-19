@@ -13,8 +13,8 @@ The method has been experimentally verified by determining the electromagnetic p
 The repository includes the following directories:
 
 - **Simulations/**: Contains CST simulation files and data used in the analysis.
-- **Matlab/**: Includes all the Matlab scripts used to achieve the final results.
-- **Results/**: Stores the extracted data and analysis results.
+- **MATLAB/**: Includes all the Matlab scripts used to achieve the final results.
+- **Results/**: Saves the final figures included in the report, which are mainly the results.
 - **Tomás Ruiz Aybar_MPE_CMJ.pdf**: This document is the Final Degree Project (TFG) report, which presents the research, methodology, and results obtained in the characterization of materials in the millimeter-wave frequency band. It provides a detailed explanation of the techniques used to extract key electromagnetic properties, such as complex refractive index, relative permittivity, and permeability.
   
 ## License
